@@ -3,7 +3,7 @@
 define('LIBS','libs/'); 
 
 //variables cuando uso localhost
-define('URL','http://localhost:81/quiniela/');
+define('URL','http://localhost/quiniela/');
 define('DB_TYPE','mysql');
 define('DB_HOST','localhost');
 define('DB_NAME','bd_quiniela');
